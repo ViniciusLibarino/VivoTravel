@@ -281,3 +281,22 @@ body{
     font-size: 12px;
     color: #969696;
 }
+
+@media(max-width:900px){
+    .container{
+        width: 100%;
+    }
+    .adicional{
+        margin-top: 10px;
+    }
+    .adicional p{
+        padding: 10px 25px;
+    }
+    .funcionamento img{
+        height: 220px;
+        margin-top: 140px;
+    }
+    .funcionamento p{
+        max-width: 1005;
+    }
+}
