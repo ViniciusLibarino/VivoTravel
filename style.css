@@ -11,7 +11,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    background: #f3f0ff;
+    background: #f0f0f0;
     width: 50%;
 }
 
@@ -177,7 +177,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    background: #e6eafc;
+    background: #ebebeb;
 }
 .area h4{
     font-family: "Raleway", sans-serif;
@@ -190,7 +190,7 @@ body{
 .area2{
     display: flex;
     justify-content: center;
-    background: #e6eafc;
+    background: #ebebeb;
 }
 .area2 .beneficios{
     display: flex;
